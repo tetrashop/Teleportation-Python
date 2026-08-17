@@ -92,3 +92,8 @@ MIT License
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
 <!-- Trigger deploy: Mon Aug 17 01:48:05 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://Teleportation-Python.vercel.app](https://Teleportation-Python.vercel.app)
+- **وضعیت:** ✅ فعال
